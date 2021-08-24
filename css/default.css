@@ -6,7 +6,6 @@ a {color:#000;font-size:14px;}
 #titlee{font-size:16px;}
 #text{width:400px;height:425px;left:110px;top:60px;position:absolute;}
 #code{display:none;font-size:8px;}
-/* #vedio{position:absolute;left:0px;top:250px;} */
 #clock-box {position:absolute;left:60px;top:550px;font-size:24px;display:none;}
 #clock-box a {font-size:24px;text-decoration:none;}
 #clock{margin-left:48px;}
